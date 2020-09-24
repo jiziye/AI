@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tesseract_demo1.dir/main.cpp.o  -o tesseract_demo1 -ltesseract -llept 
