@@ -33,4 +33,4 @@ $tesseract  imagename  outputbase  digits
 tessdata/configs在/usr/share/tesseract-ocr下
 
 ## 编译tesseract demo
-make:  g++ -o myprogram myprogram.cpp -llept -ltesseract
+$g++ -o myprogram myprogram.cpp -llept -ltesseract
